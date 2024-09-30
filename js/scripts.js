@@ -61,5 +61,7 @@ function showSlides(n) {
 
   // Add "active" class to the current slide and dot
   slides[slideIndex - 1].classList.add("active");
+
 }
+
 
