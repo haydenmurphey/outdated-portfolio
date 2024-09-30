@@ -33,35 +33,54 @@ window.addEventListener('DOMContentLoaded', event => {
 
 });
 
-let slideIndex = 1;
-showSlides(slideIndex);
+let slideIndexes = {
+  projectOne: 1,
+  projectTwo: 1,
+  projectThree: 1
+};
 
-// Next/previous controls
-function plusSlides(n) {
-  showSlides(slideIndex += n);
+// Show slides for Project One by default
+showSlides(slideIndexes.projectOne, 'projectOne');
+
+showSlides(slideIndexes.projectTwo, 'projectTwo');
+
+showSlides(slideIndexes.projectThree, 'projectThree');
+
+
+
+// Next/previous controls for all slideshows
+function plusSlides(n, project) {
+  showSlides(slideIndexes[project] += n, project);
 }
 
-// Thumbnail image controls
-function currentSlide(n) {
-  showSlides(slideIndex = n);
+// Thumbnail image controls for all slideshows
+function currentSlide(n, project) {
+  showSlides(slideIndexes[project] = n, project);
 }
 
-function showSlides(n) {
+function showSlides(n, project) {
   let i;
   let slides = document.getElementsByClassName("mySlides");
-  let dots = document.getElementsByClassName("dot");
+  
+  // Get the slides and dots specific to the project
+  let projectSlides = document.getElementsByClassName(project + 'Slide');
+  
+  if (n > projectSlides.length) {slideIndexes[project] = 1}
+  if (n < 1) {slideIndexes[project] = projectSlides.length}
 
-  if (n > slides.length) {slideIndex = 1}
-  if (n < 1) {slideIndex = slides.length}
-
-   // Remove "active" class from all slides
-   for (i = 0; i < slides.length; i++) {
-    slides[i].classList.remove("active");
+  // Remove "active" class from all slides for the specific project
+  for (i = 0; i < projectSlides.length; i++) {
+    projectSlides[i].classList.remove("active");
   }
 
-  // Add "active" class to the current slide and dot
-  slides[slideIndex - 1].classList.add("active");
+  // Add "active" class to the current slide for the specific project
+  projectSlides[slideIndexes[project] - 1].classList.add("active");
 
+  // Optional: Handle dot visibility
+  let dots = document.getElementsByClassName("dot");
+  for (i = 0; i < dots.length; i++) {
+    dots[i].classList.remove("active");
+  }
+  let projectDots = Array.from(dots).slice(0, projectSlides.length); // Get corresponding dots
+  projectDots[slideIndexes[project] - 1].classList.add("active");
 }
-
-
