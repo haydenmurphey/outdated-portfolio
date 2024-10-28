@@ -8037,7 +8037,7 @@ textarea.form-control-lg {
 /* rtl:end:remove */
 .text-primary {
   --bs-text-opacity: 1;
-  color: rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important;
+  color: #6c757d;
 }
 
 .text-secondary {
@@ -10937,7 +10937,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: #6c757d;
 }
 
 .dev-icons {
@@ -11022,7 +11022,7 @@ section.resume-section .resume-section-content {
 
 /* Caption text */
 .text {
-  color: #bd5d38;
+  color: #6c757d;
   font-size: 15px;
   padding: 8px 12px;
   position: absolute;
@@ -11033,9 +11033,20 @@ section.resume-section .resume-section-content {
 
 /* Number text (1/3 etc) */
 .numbertext {
-  color: #bd5d38;
+  color: #6c757d;
   font-size: 12px;
   padding: 8px 12px;
   position: absolute;
   top: 0;
+}
+
+.custom-link {
+  text-decoration-color: #6c757d;
+  color: inherit; /* Keeps the text color */
+  text-decoration: underline;
+}
+
+.custom-link:hover {
+  color: #6c757d; /* Changes the text color on hover */
+  text-decoration-color: #6c757d; /* Ensures the underline color also changes on hover */
 }
