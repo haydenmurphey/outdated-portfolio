@@ -12,7 +12,7 @@ const Hayden = {
   languages: [C, CSS, Haskel, HTML, Java, JavaScript, Python, Ruby, Rust, Swift],
   frameworks_libraries: [Bootstrap , CMake, JSON, JUnit/pytest, NumPy, OpenCV, pandas, ROS2, Tailwind],
   technical_skills: [Agile Methodology (SCRUM), API Integration, CLI, Git, SVN],
-  interest: [Music, Operating Systems, Emulation, Snowboarding, Rock Climbing],
+  interests: [Music, Operating Systems, Emulation, Snowboarding, Rock Climbing],
   certs_professional_memberships: [
     {
       name: "ISC(2) Certified in Cybersecurity",
