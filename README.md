@@ -20,8 +20,7 @@ const Hayden = {
     },
     {
       name: "Association for Computing Machinery (ACM)",
-      type: "Membership",
-      role: "Student Member",
+      type: "Student Member",
       date_joined: "2025"
     }
   ]
