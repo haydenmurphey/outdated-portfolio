@@ -12,6 +12,7 @@ const Hayden = {
   languages: [C, CSS, Haskel, HTML, Java, JavaScript, Python, Ruby, Rust, Swift],
   frameworks_libraries: [Bootstrap , CMake, JSON, JUnit/pytest, NumPy, OpenCV, pandas, ROS2, Tailwind],
   technical_skills: [Agile Methodology (SCRUM), API Integration, CLI, Git, SVN],
+  interest: [Music, Operating Systems, Emulation, Snowboarding, Rock Climbing],
   certs_professional_memberships: [
     {
       name: "ISC(2) Certified in Cybersecurity",
@@ -27,7 +28,7 @@ const Hayden = {
 }
 ```
 
-<h2>🛠️ Projects: </h2>
+<h2>🛠️ Recent Projects: </h2>
 
 <p><strong>PintOS (Operating Systems Implementation) </strong></p>
 
