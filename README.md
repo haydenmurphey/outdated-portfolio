@@ -28,3 +28,28 @@ const Hayden = {
 }
 ```
 
+<h2>🛠️ Projects: </h2>
+
+<p><strong>PintOS (Operating Systems Implementation) </strong>| Fall 2025 </p>
+
+- Reimplemented the timer subsystem (timer_sleep) with interrupt-driven sleep queues, successfully eliminating busy-waiting and improving CPU utilization.
+
+- Implemented user-mode processes and expanded syscalls (exec/wait, file I/O) to enable realistic user programs.
+
+- Collaborated with a team on milestone planning, code reviews, and feature integration.
+
+<p><strong>Full Client-Side Web Application </strong>| Fall 2025</p>
+
+- Built a fully functional web app for real users featuring full CRUD capabilities and localStorage persistence.
+
+- Integrated third-party APIs via asynchronous JavaScript and deployed to a public URL.
+
+- Implemented an "Accessibility First" design following WCAG standards.
+
+<p><strong>MusicCPR</strong> | Assistant Researcher (Oct 2022 - July 2023)</p>
+
+- Coordinated with professors to debug and solve critical software issues.
+
+- Conducted independent testing and validation of the software leveraging a background in music theory.
+
+
