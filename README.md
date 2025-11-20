@@ -30,19 +30,19 @@ const Hayden = {
 
 <h2>🛠️ Projects: </h2>
 
-<p><strong>PintOS (Operating Systems Implementation) </strong>| Fall 2025 </p>
+<p><strong>PintOS (Operating Systems Implementation) </strong></p>
 
 - Reimplemented the timer subsystem and expanded syscalls (exec/wait, file I/O) to eliminate busy-waiting and enable realistic user programs.
 
 - Collaborated with a team on milestone planning, code reviews, and feature integration.
   
-<p><strong>Full Client-Side Web Application </strong>| Fall 2025</p>
+<p><strong>Full Client-Side Web Application </strong></p>
 
 - Built a persistent client-side app with full CRUD capabilities, localStorage, and async third-party API integration.
 
 - Implemented a WCAG-compliant "Accessibility First" design and deployed the application to a public URL.
 
-<p><strong>MusicCPR</strong> | Assistant Researcher (Oct 2022 - July 2023)</p>
+<p><strong>MusicCPR</strong> | Assistant Researcher</p>
 
 - Coordinated with professors to debug and solve critical software issues.
 
