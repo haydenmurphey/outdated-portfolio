@@ -1,7 +1,7 @@
 <h2> Hello World, I'm Hayden Murphey!</h2>
 <p><em>
-  Computer Science Student at <a href="https://www.jmu.edu/">James Madison University</a><img src="https://www.jmu.edu/identity/_files/jmu-block-rgb-purple.png" width="30"></br>
-  Technical AI Trainer at <a href="https://www.dataannotation.tech/generalist?worker_src=G&utm_source=google&utm_medium=display&utm_campaign=21040832282&utm_adgroup=&utm_content=&gad_source=1&gad_campaignid=22434464778&gbraid=0AAAAAqBNCsW2WLYi32WWukEpB2hhsActl&gclid=CjwKCAiAlfvIBhA6EiwAcErpyYjgcX-vhycVJVD2KgfxejzKFhE_YQqOSGa22eJkKRebJ1szunw8rhoC1yEQAvD_BwE">DataAnnotation</a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPdinofesxWeX2dD_cwZppD-VdN4KGsDn17Q&s" width="30"> 
+  Computer Science Student at <a href="https://www.jmu.edu/">James Madison University</a></br>
+  Technical AI Trainer at <a href="https://www.dataannotation.tech/generalist?worker_src=G&utm_source=google&utm_medium=display&utm_campaign=21040832282&utm_adgroup=&utm_content=&gad_source=1&gad_campaignid=22434464778&gbraid=0AAAAAqBNCsW2WLYi32WWukEpB2hhsActl&gclid=CjwKCAiAlfvIBhA6EiwAcErpyYjgcX-vhycVJVD2KgfxejzKFhE_YQqOSGa22eJkKRebJ1szunw8rhoC1yEQAvD_BwE">DataAnnotation</a>
 </em></p>
 
 ### About Me:
