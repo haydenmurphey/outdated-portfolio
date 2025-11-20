@@ -1,0 +1,31 @@
+<h2> Hello World, I'm Hayden Murphey!</h2>
+<p><em>
+  Computer Science Student at <a href="https://www.jmu.edu/">James Madison University</a><img src="https://www.jmu.edu/identity/_files/jmu-block-rgb-purple.png" width="30"></br>
+  Technical AI Trainer at <a href="https://www.dataannotation.tech/generalist?worker_src=G&utm_source=google&utm_medium=display&utm_campaign=21040832282&utm_adgroup=&utm_content=&gad_source=1&gad_campaignid=22434464778&gbraid=0AAAAAqBNCsW2WLYi32WWukEpB2hhsActl&gclid=CjwKCAiAlfvIBhA6EiwAcErpyYjgcX-vhycVJVD2KgfxejzKFhE_YQqOSGa22eJkKRebJ1szunw8rhoC1yEQAvD_BwE">DataAnnotation</a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPdinofesxWeX2dD_cwZppD-VdN4KGsDn17Q&s" width="30"> 
+</em></p>
+
+### About Me:
+
+```javascript
+const Hayden = {
+  pronouns: "he" | "him",
+  languages: [C, CSS, Haskel, HTML, Java, JavaScript, Python, Ruby, Rust, Swift],
+  frameworks_libraries: [Bootstrap , CMake, JSON, JUnit/pytest, NumPy, OpenCV, pandas, ROS2, Tailwind],
+  technical_skills: [Agile Methodology (SCRUM), API Integration, CLI, Git, SVN],
+  certs_professional_memberships: [
+    {
+      name: "ISC(2) Certified in Cybersecurity",
+      type: "Certification",
+      date_acquired: "Feb 2025"
+    },
+    {
+      name: "Association for Computing Machinery (ACM)",
+      type: "Membership",
+      role: "Student Member",
+      date_joined: "2025"
+    }
+  ]
+}
+```
+
+---
