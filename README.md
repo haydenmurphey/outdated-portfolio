@@ -32,19 +32,15 @@ const Hayden = {
 
 <p><strong>PintOS (Operating Systems Implementation) </strong>| Fall 2025 </p>
 
-- Reimplemented the timer subsystem (timer_sleep) with interrupt-driven sleep queues, successfully eliminating busy-waiting and improving CPU utilization.
-
-- Implemented user-mode processes and expanded syscalls (exec/wait, file I/O) to enable realistic user programs.
+- Reimplemented the timer subsystem and expanded syscalls (exec/wait, file I/O) to eliminate busy-waiting and enable realistic user programs.
 
 - Collaborated with a team on milestone planning, code reviews, and feature integration.
-
+  
 <p><strong>Full Client-Side Web Application </strong>| Fall 2025</p>
 
-- Built a fully functional web app for real users featuring full CRUD capabilities and localStorage persistence.
+- Built a persistent client-side app with full CRUD capabilities, localStorage, and async third-party API integration.
 
-- Integrated third-party APIs via asynchronous JavaScript and deployed to a public URL.
-
-- Implemented an "Accessibility First" design following WCAG standards.
+- Implemented a WCAG-compliant "Accessibility First" design and deployed the application to a public URL.
 
 <p><strong>MusicCPR</strong> | Assistant Researcher (Oct 2022 - July 2023)</p>
 
