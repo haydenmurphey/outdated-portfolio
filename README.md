@@ -1,6 +1,6 @@
 <h2>👋 Hello World, I'm Hayden Murphey! </h2>
 <p><em>
-  Computer Science Student at <a href="https://www.jmu.edu/">James Madison University</a></br>
+  Computer Science Graduate at <a href="https://www.jmu.edu/">James Madison University (2025)</a></br>
   Technical AI Trainer at <a href="https://www.dataannotation.tech/generalist?worker_src=G&utm_source=google&utm_medium=display&utm_campaign=21040832282&utm_adgroup=&utm_content=&gad_source=1&gad_campaignid=22434464778&gbraid=0AAAAAqBNCsW2WLYi32WWukEpB2hhsActl&gclid=CjwKCAiAlfvIBhA6EiwAcErpyYjgcX-vhycVJVD2KgfxejzKFhE_YQqOSGa22eJkKRebJ1szunw8rhoC1yEQAvD_BwE">DataAnnotation</a>
 </em></p>
 
